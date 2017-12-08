@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CCTask"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "An iOS Thread waiter"
   s.description  = <<-DESC
                     You can use CCTask to make the thread wait until the operation finished.
