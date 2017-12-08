@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.1"
   s.summary      = "An iOS Thread waiter"
   s.description  = <<-DESC
-                    .
+                    You can use CCTask to make the thread wait until the operation finished.
                    DESC
   s.homepage     = "http://www.wujios.com"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
